@@ -1,11 +1,10 @@
-# Gridfinity Raspberry Pi Pico Holder
+# Gridfinity breadboard
 
-![3d printed model verion](/assets/gridfinty-rpi-pico-resized.jpg)
+![3d printed model verion](/assets/picture.jpg)
 
-![render model](/assets/render.png)
+![render model](/assets/f3d.jpg)
 
 Gridfinity was made by Zack Freedman in this video:
 https://www.youtube.com/watch?v=ra_9zU-mnl8
 
-This project was inspired by
-[this](https://thangs.com/designer/jeman/3d-model/Gridfinity%2520Raspberry%2520Pi%2520Pico%2520Holder.stl-198518)
+This is a simple breadboard holder. It's a 2x4x3 and can be stacked
